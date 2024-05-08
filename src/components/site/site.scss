@@ -1,0 +1,99 @@
+.Home {
+    height: 100vh;
+    width: 100vw;
+    margin-top: -2px;
+    .bg-1{
+        width: 100%;
+        overflow-x: hidden;
+        height: calc( 100vh - 55px );
+        background-repeat: no-repeat;
+        background-size: 100% 100% !important;
+        background:url('./../../assets/img/bg-1.jpg');
+    }
+    .heading{  
+        margin-top: 5%;
+        margin-left: 5%;
+        color: red;
+        font-size: large;
+    }
+    .h1{
+        margin-left: 5%;
+    }  
+}
+.para{
+    margin-left:5% ;
+    margin-top: 1%;
+}
+.par{
+    margin-left: 5%;
+    margin-top: 1%;
+
+}
+.icon{
+    margin-top: -1%;
+    margin-left: -49px;
+    height: 30px;
+    width: 50px;
+
+    
+}
+.desc{
+    margin-left:5% ;
+    margin-top: 5%;
+}
+.searchbox{
+    margin-left:5% ;
+    box-sizing: border-box;
+    width: 350px;
+    height: 60px;
+    font-size: larger;
+    margin-top: 80px;
+    color:black;
+
+}
+.box{
+    color:red;
+}
+.hometag{
+    text-decoration: none;
+    color:red;
+}
+.blogtag{
+    text-decoration: none;
+}
+.abouttag{
+    text-decoration: none;
+}
+
+.r1{
+    color: green;
+    width: 25px;
+    height: 22px;
+}
+.r2{
+    color: green;
+    width: 25px;
+    height: 22px;
+}
+.r3{
+    color: green;
+    width: 25px;
+    height: 22px;
+}
+.htag{
+    margin-left: 5%;
+}
+.icontag{
+    margin-left: -20px;
+    margin-top: -55px;
+}
+ 
+.tag{
+    color: red;
+    margin-left: 40%;
+    margin-top: 3%;
+}
+.head1{
+    margin-left: 33%;
+    
+}
